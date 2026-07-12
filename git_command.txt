@@ -26,4 +26,10 @@ git status
 git commit -m "added testing files"                           
 git commit -m "added testing.py"                              
 git commit -m "add ."                                         
-git status  
+git status
+git remote -v                                                  
+   3 git remote set-url origin https://
+   4 git remote -v                                                  
+   5 git remote set-url origin https://
+   6 git remote -v                                                  
+   7 git push origin master  
