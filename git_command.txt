@@ -1,0 +1,29 @@
+ls                                                            
+ls -l                                                                                                                 
+rm testing.py                                                 
+ls                                                                               
+git inint                                                     
+dir -l                                                        
+dir                                                           
+git init                                                      
+clear                                                         
+git init                                                      
+git status                                                    
+dir                                                           
+ls                                                            
+git status                                                    
+git add testing.py                                            
+git status                                                                                           
+git status                                                    
+git rm --cached testing.py                                    
+git status                                                    
+git add.                                                      
+git status                                                    
+git add .                                                     
+git status                                                    
+git commit -m "added testing files"                           
+git status                                                    
+git commit -m "added testing files"                           
+git commit -m "added testing.py"                              
+git commit -m "add ."                                         
+git status  
